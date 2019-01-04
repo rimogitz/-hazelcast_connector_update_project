@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.mule.tooling.ui.extension.hazelcast-client-connector.3.5.0_1.0.0.201901032101.jar" id="org.mule.tooling.ui.extension.hazelcast-client-connector.3.5.0" version="1.0.0.201901032101" os="linux,macosx,solaris,win32">
+      <category name="hazelcastConnector"/>
+   </feature>
+   <category-def name="hazelcastConnector" label="hazelcastConnector"/>
+</site>
